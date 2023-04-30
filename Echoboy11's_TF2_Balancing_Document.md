@@ -1,4 +1,4 @@
-#Echoboy11's TF2 Balancing Document#
+# Echoboy11's TF2 Balancing Document
 
 [Link to original document](https://docs.google.com/document/d/186OAOOb0G6yfN5JRpFiDb79U2BcS0q_mvfUlQijbLtc/edit#heading=h.iqtvhsc42oed)
 
