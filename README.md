@@ -1,5 +1,7 @@
 # rebalance.tf
 
+Page is still a massive WIP, please refer to [this link](https://wiki.teamfortress.com/wiki/User:EtherealT) for more information.
+
 This page is a personal project of mines to create a hub where balance ideas can be freely shared and feedback/discussions can be hosted over these proposals. From my experiences thus far, one of the biggest struggles for balance document authors is that they struggle with getting feedback, and the odd comment they get is often negative and discouraging. 
 
 1. In this page, you may browse through existing balance documents, websites or mods I have collected.
